@@ -1,14 +1,13 @@
-# Project
+# Supply chain linters
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This project is in early development.
 
-As the maintainer of this project, please make a few updates:
+This project aims to create a framework to defend against malicious dependencies.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+We will host a collection of linters, each one analyzing a different aspect of
+the supply chain security of a project.
+
+We will also create a github action for simple integration.
 
 ## Contributing
 
